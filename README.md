@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aaronthangnguyen
+- 👋 Hi, I’m @Aaron
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C#, ASP.NET Web API, and Data Structures & Algorithms
+- 🌱 I’m familiar with Python, C#, JavaScript, React.js, ASP.NET, etc.
 
 <!---
 aaronthangnguyen/aaronthangnguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
