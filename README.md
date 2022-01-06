@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aaron
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m familiar with Python, C#, JavaScript, React.js, ASP.NET, etc.
+# Aaron Nguyen ❖ @aaronthangnguyen
 
-<!---
-aaronthangnguyen/aaronthangnguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![linkedin](https://img.shields.io/badge/LinkedIn-%40aaronthangnguyen-blue?logo=linkedin)](https://www.linkedin.com/in/aaronthangnguyen/)
+[![github](https://img.shields.io/badge/GitHub-%40aaronthangnguyen-blueviolet?logo=github)](https://github.com/aaronthangnguyen/)
+[![portfolio](https://img.shields.io/badge/Portfolio-%40aaronnguyen-red?logo=personio)](https://www.aaronnguyen.dev/)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaronthangnguyen&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
